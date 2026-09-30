@@ -1,14 +1,25 @@
-## Hi there 👋
+## Hi! I'm Ryan.
 
-### 🔭 I’m currently working on:
+### 🔭 I’m currently working on:  
+
+Building a fitness and exercise tracking mobile app. The app will feature offline-first syncing, so that you can rest assured that even when logging offline, your workouts will be saved!
 
 ### 🌱 I’m currently learning:
 
+C++!
+
 ### 👯 I’m looking to collaborate on:
+
+Absolutely anything! I'm always open to fun projects with others. Please reach out if you want to build together!
 
 ### 🤔 I’m looking for help with:
 
+Understanding common engineering practices. As I continue to look for work in the industry, I want to familiarize myself with the typical way things are done.  
+These things could be naming conventions, separation of concerns, etc.
+
 ### 💬 Ask me about:
+
+How I got over my tendency to stop working on a project halfway through. I have a graveyard of 20+ half-finished projects.
 
 ### 📫 How to reach me:
 
@@ -19,6 +30,8 @@ Email: barczakryan@outlook.com
 He / Him
 
 ### ⚡ Fun fact:
+
+I've been programming since I was twelve years old! (Man, building Minecraft mods were fun!)
 
 
 
