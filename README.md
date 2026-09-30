@@ -6,7 +6,10 @@
 ### 🤔 I’m looking for help with:
 ### 💬 Ask me about:
 ### 📫 How to reach me:
+Twitter / X: @rybzak
+Email: barczakryan@outlook.com
 ### 😄 Pronouns:
+He / Him
 ### ⚡ Fun fact:
 
 
