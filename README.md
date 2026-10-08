@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on:  
 
-Building a fitness and exercise tracking mobile app. The app will feature offline-first syncing, so that you can rest assured that even when logging offline, your workouts will be saved!
+Building my submission for PayPal's AI Hackathon 2026!
 
 ### 🌱 I’m currently learning:
 
